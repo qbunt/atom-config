@@ -1,0 +1,16 @@
+"*":
+  core:
+    telemetryConsent: "limited"
+    themes: [
+      "one-dark-ui"
+      "base16-tomorrow-dark-theme"
+    ]
+  editor:
+    fontFamily: "Ubuntu Mono"
+    fontSize: 16
+  "exception-reporting":
+    userId: "f00abbbb-8f97-4ce2-9804-82acd43ef702"
+  "linter-ui-default":
+    showPanel: true
+  welcome:
+    showOnStartup: false
